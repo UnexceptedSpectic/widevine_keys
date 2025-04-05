@@ -1,0 +1,2 @@
+graft widevine_keys/cdm/formats
+global-exclude *.py[cod] __pycache__/
